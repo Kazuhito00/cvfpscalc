@@ -1,5 +1,5 @@
 # cvfpscalc
- cvfpscalc‚ÍOpenCV‚ÌgetTickFrequency()‚ð—˜—p‚µ‚½FPSŒv‘ªƒNƒ‰ƒX‚Å‚·B
+ cvfpscalcã¯OpenCVã®getTickFrequency()ã‚’åˆ©ç”¨ã—ãŸFPSè¨ˆæ¸¬ã‚¯ãƒ©ã‚¹ã§ã™ã€‚
 
 # Requirement
  
@@ -7,18 +7,18 @@
  
 # Installation
  
-—˜—p‚µ‚½‚¢PythonƒvƒƒOƒ‰ƒ€‚Æ“¯ŠK‘w‚ÉcvfpscalcƒfƒBƒŒƒNƒgƒŠ‚ðƒRƒs[‚µ‚Ä‚­‚¾‚µ‚ 
+åˆ©ç”¨ã—ãŸã„Pythonãƒ—ãƒ­ã‚°ãƒ©ãƒ ã¨åŒéšŽå±¤ã«cvfpscalcãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ãã ã•ã„ã€‚
  
 # Usage
  
-ƒTƒ“ƒvƒ‹‚ÌŽÀs•û–@‚ÍˆÈ‰º‚Å‚·BWebƒJƒƒ‰‚ªÚ‘±‚³‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚·B
+ã‚µãƒ³ãƒ—ãƒ«ã®å®Ÿè¡Œæ–¹æ³•ã¯ä»¥ä¸‹ã§ã™ã€‚Webã‚«ãƒ¡ãƒ©ãŒæŽ¥ç¶šã•ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
  
 ```bash
 python sample.py
 ```
 
 # Author
-‚‹´‚©‚¸‚Ð‚Æ
+é«˜æ©‹ã‹ãšã²ã¨(https://twitter.com/KzhtTkhs)
  
 # License 
 cvfpscalc is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
