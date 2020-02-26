@@ -8,6 +8,8 @@
 # Installation
  
 利用したいPythonプログラムと同階層にcvfpscalcディレクトリをコピーしてください。
+
+使用方法はsample.pyを参考にしてください。
  
 # Usage
  
