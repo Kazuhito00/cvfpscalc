@@ -1,5 +1,7 @@
 # cvfpscalc
  cvfpscalcはOpenCVのgetTickFrequency()を利用したFPS計測クラスです。
+ 
+ ※厳密な計測ではなく参考値程度です。
 
 # Requirement
  
